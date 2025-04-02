@@ -1,6 +1,10 @@
-## Hi there 👋
+# About me
 
-<!--
+🎛 I’m currently learning the basics of elctronics via the Arduino Starter Kit. I will share some code as soon as I've programmed a project of my own.
+
+
+<!-- 
+l. 6 keeps following lines hidden
 **KansuiOtto/KansuiOtto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
